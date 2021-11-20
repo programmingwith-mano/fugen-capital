@@ -31,7 +31,6 @@ jobs:
       env:
         CI: false
     - name: Deploy
-      uses: programmingwith-mano/fugen-capital@4.1.1
       with:
         branch: gh-pages
         folder: build
