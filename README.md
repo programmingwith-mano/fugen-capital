@@ -1,2 +1,0 @@
-# fugen-capital
- Fugen Capital
