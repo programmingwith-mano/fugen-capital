@@ -1,5 +1,6 @@
 {
   "name": "falcon-react",
+  "homepage": "https://programmingwith-mano.github.io/fugen-capital",
   "version": "1.2.0",
   "private": true,
   "dependencies": {
